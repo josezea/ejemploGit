@@ -5,3 +5,6 @@ summary(iris)
 mean(iris$Sepal.Length)
 median(iris$Sepal.Length)
 min(iris$Sepal.Length)
+
+# Jose
+max(iris$Sepal.Length)
